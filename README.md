@@ -175,7 +175,7 @@ Additional HTML reports are generated with:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
-[Your Name]
+Sabbir Hossain
 
 ## Acknowledgments
 - [Automation Exercise](https://www.automationexercise.com) for providing the test website
